@@ -1,0 +1,6 @@
+**Login Details**
+
+Email   : admin@mail.com
+Password: codeastro.com
+
+
